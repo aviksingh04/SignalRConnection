@@ -1,0 +1,22 @@
+{
+  "name": "rn-goal-graph",
+  "version": "1.0.7",
+  "description": "rn-goal-graph is use for react native graph. it show the overall progress with custom filter like \"week\" and \"month\". you have to pass a structred data into it.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "graph",
+    "goals",
+    "graph",
+    "goals",
+    "progress",
+    "graph",
+    "rn-goal-graph"
+  ],
+  "author": "Avinesh Kumar Singh",
+  "license": "ISC"
+}
