@@ -1,10 +1,10 @@
 # rn-goal-graph
 
 A React Native package to visualize goal progress in a graphical format.
+![demo1](https://github.com/user-attachments/assets/226beb91-7217-457b-aa73-4157594bdab2)
 
 # Reference
 
-![demo](https://github.com/user-attachments/assets/49c9b47e-6fdf-4bf0-a91f-a3eb58f89a8f)
 
 ## Result
 
